@@ -117,7 +117,7 @@ print(f"p1 answer: {p1_answer}")
 # And we see A is divided by 8 after each iteration.
 #
 # Since A is zero when the program terminates, it must be some value 1 through 7
-# when the output number is outputted (in my case 0). So try running the
+# when the last output number is outputted (in my case 0). So try running the
 # computer with all values and see if you get 0 for output. For any A values
 # where you did get an output value 0, try appending to A (in octal) all
 # possible values 0-7 and run the computer with A equal to those two octal
